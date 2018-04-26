@@ -13,7 +13,7 @@
             <Button  Width="60" Height="40" FontSize="15" Margin="10 20 50 10" Click="Button_Click_2" Foreground="Brown">delete</Button>
         </StackPanel >
 
-        <Rectangle Fill="#aaa" VerticalAlignment="Top" Height="5"/>
+        <Rectangle Fill="#111" VerticalAlignment="Top" Height="2"/>
 
         <StackPanel Orientation="Horizontal">
             <TextBlock FontSize="15" Margin="10 30 10 10" Foreground="Black">體重:</TextBlock>
@@ -21,8 +21,8 @@
             <Button Width="60" Height="40" FontSize="15" Margin="10 20 50 10" Click="Button_Click_3" Foreground="Brown">delete</Button>
         </StackPanel >
 
-        <Rectangle Fill="#aaa" VerticalAlignment="Top" Height="5"/>
-
+        <Rectangle Fill="#111" VerticalAlignment="Top" Height="2"/>
+            
         <Button Height="50" FontSize="35" Margin="30" Click="Button_Click_1" Foreground="Indigo">計算</Button>
 
         <TextBlock x:Name="text" Foreground="Blue" FontSize="45" TextAlignment="Center">0</TextBlock>

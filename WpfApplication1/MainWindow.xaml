@@ -25,8 +25,6 @@
 
         <Button Height="50" FontSize="35" Margin="30" Click="Button_Click_1" Foreground="Indigo">計算</Button>
 
-        <Rectangle Fill="#aaa" VerticalAlignment="Top" Height="5"/>
-
         <TextBlock x:Name="text" Foreground="Blue" FontSize="45" TextAlignment="Center">0</TextBlock>
     </StackPanel>
 </Window>
